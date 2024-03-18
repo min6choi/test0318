@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 41,
+    "height" : 62
+  }, {
+    "width" : 81,
+    "height" : 123
+  }, {
+    "width" : 162,
+    "height" : 246
+  }, {
+    "width" : 324,
+    "height" : 491
+  }, {
+    "width" : 648,
+    "height" : 982
+  }, {
+    "width" : 1296,
+    "height" : 1964
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1296,
+  "@id" : "https://min6choi.github.io/test0318/images/ad_1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1964
+}
